@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 49d4cd401f27bbe45b6a7fbcac7bd92c
+timeCreated: 1526516851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body_Joint
+    100002: Eye_Joint
+    100004: Head_Joint
+    100006: L_Back_LegClaw
+    100008: L_Back_LegEnd
+    100010: L_Back_LegMid
+    100012: L_Back_LegStart
+    100014: L_Front_LegClaw
+    100016: L_Front_LegEnd
+    100018: L_Front_LegMid
+    100020: L_Front_LegStart
+    100022: L_MidBack_LegClaw
+    100024: L_MidBack_LegEnd
+    100026: L_MidBack_LegMid
+    100028: L_MidBack_LegStart
+    100030: L_MidFront_LegClaw
+    100032: L_MidFront_LegEnd
+    100034: L_MidFront_LegMid
+    100036: L_MidFront_LegStart
+    100038: L_Stinger_01_Joint
+    100040: L_Stinger_02_Joint
+    100042: L_Stinger_03_Joint
+    100044: R_Back_LegClaw
+    100046: R_Back_LegEnd
+    100048: R_Back_LegMid
+    100050: R_Back_LegStart
+    100052: R_Front_LegClaw
+    100054: R_Front_LegEnd
+    100056: R_Front_LegMid
+    100058: R_Front_LegStart
+    100060: R_MidBack_LegClaw
+    100062: R_MidBack_LegEnd
+    100064: R_MidBack_LegMid
+    100066: R_MidBack_LegStart
+    100068: R_MidFront_LegClaw
+    100070: R_MidFront_LegEnd
+    100072: R_MidFront_LegMid
+    100074: R_MidFront_LegStart
+    100076: R_Stinger_01_Joint
+    100078: R_Stinger_02_Joint
+    100080: R_Stinger_03_Joint
+    100082: Root_Joint
+    100084: //RootNode
+    100086: Spider_Mesh
+    400000: Body_Joint
+    400002: Eye_Joint
+    400004: Head_Joint
+    400006: L_Back_LegClaw
+    400008: L_Back_LegEnd
+    400010: L_Back_LegMid
+    400012: L_Back_LegStart
+    400014: L_Front_LegClaw
+    400016: L_Front_LegEnd
+    400018: L_Front_LegMid
+    400020: L_Front_LegStart
+    400022: L_MidBack_LegClaw
+    400024: L_MidBack_LegEnd
+    400026: L_MidBack_LegMid
+    400028: L_MidBack_LegStart
+    400030: L_MidFront_LegClaw
+    400032: L_MidFront_LegEnd
+    400034: L_MidFront_LegMid
+    400036: L_MidFront_LegStart
+    400038: L_Stinger_01_Joint
+    400040: L_Stinger_02_Joint
+    400042: L_Stinger_03_Joint
+    400044: R_Back_LegClaw
+    400046: R_Back_LegEnd
+    400048: R_Back_LegMid
+    400050: R_Back_LegStart
+    400052: R_Front_LegClaw
+    400054: R_Front_LegEnd
+    400056: R_Front_LegMid
+    400058: R_Front_LegStart
+    400060: R_MidBack_LegClaw
+    400062: R_MidBack_LegEnd
+    400064: R_MidBack_LegMid
+    400066: R_MidBack_LegStart
+    400068: R_MidFront_LegClaw
+    400070: R_MidFront_LegEnd
+    400072: R_MidFront_LegMid
+    400074: R_MidFront_LegStart
+    400076: R_Stinger_01_Joint
+    400078: R_Stinger_02_Joint
+    400080: R_Stinger_03_Joint
+    400082: Root_Joint
+    400084: //RootNode
+    400086: Spider_Mesh
+    4300000: Spider_Mesh
+    9500000: //RootNode
+    13700000: Spider_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 0e3e6aa0da6778a41a27b1e5b6548b82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
